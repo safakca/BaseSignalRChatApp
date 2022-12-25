@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2BB28D62-131E-4288-8738-B6F6CC3583B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="libman.json">
+    <Files>
+      <File FileName="wwwroot/js/chat.js" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="libman.json" Line="14" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BaseSignalRChatApp" expanded="True">
+            <Node name="BaseSignalRChatApp" expanded="True">
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True">
+                  <Node name="signalr" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="libman.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BaseSignalRChatApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
